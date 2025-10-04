@@ -22,8 +22,7 @@ public class MyClass {
         System.out.println( rect.topLeft.x + " " +
                 rect.topLeft.y             + " " +
                 rect.bottomRight.x         + " " +
-                rect.bottomRight.y         + " " +
-                );
+                rect.bottomRight.y         + " " );
     }
 }
 
