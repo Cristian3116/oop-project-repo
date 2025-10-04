@@ -11,10 +11,7 @@ public class MyClass {
 //
 //        System.out.println(p.x + p.y);
 //        System.out.println(p2.x + p2.y);
-        public class Rectangle {
-            public Point topLeft = new Point();
-            public Point bottomRight = new Point();
-        }
+
 
 
         Rectangle rect = new Rectangle();
